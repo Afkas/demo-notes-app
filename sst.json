@@ -1,5 +1,5 @@
 {
-  "name": "notes",
+  "name": "demonotes",
   "region": "eu-west-2",
   "main": "stacks/index.js"
 }
